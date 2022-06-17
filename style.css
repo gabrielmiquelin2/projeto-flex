@@ -76,7 +76,7 @@ header .menu{
   line: height 50px;
   margin-top: 10px;
   margin-bottom: 10px;
-  text-align:center;
+  
 }
 
 .apresentacao .texto-apresentacao{
@@ -88,6 +88,7 @@ header .menu{
   color: #122a57;
   font-size: 48px;
   margin-bottom: 10px;
+   
 }
 
 .btn{
