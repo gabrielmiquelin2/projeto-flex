@@ -5,6 +5,14 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 
+
+.saiba{
+  text-align: center ;
+  flex-direction: column;
+}
+ 
+
+
 ul{
   list-style: none;
   margin: 0;
@@ -64,6 +72,8 @@ header .menu{
 .texto-apresentacao h1{
   color: #122a57;
 }
+
+
 .texto-apresentacao a{
   color: #122a57;
   background-color: #122a57;
